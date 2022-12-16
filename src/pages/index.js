@@ -1,5 +1,17 @@
-import * as React from "react"
+import React from "react";
+import {Link} from 'gatsby'; //used to preload page content and avoid refresh
 
-export default function Home() {
-  return <div>Hello world!</div>
+import Layout from "../components/layout";
+
+const IndexPage = () => {
+  return (
+    <Layout>
+      <h1>Hello.</h1>
+      <h2>I'm June, a front-end developer, living in the fictional land of New Jersey.</h2>
+      <p>(using anchor tag) Need a developer? <a href="/contact">Contact Me</a></p>
+      <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
+    </Layout>
+  )
 }
+
+export default IndexPage;
