@@ -1,6 +1,6 @@
 # The Great Gatsby Bootcamp
 
-This is a basic blog I developed by following Andrew Mead's [Gatsby JS Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM&t=8700s). My goal was to become familiar with Gatsby JS and come to a deeper understanding on some of its use cases. Since I had already become familiar with React, this seemed like a great step to take in order to learn how to create websites more quickly. Learning how to pull from a CMS is also a skill that can be valuable to organizations that are already using platforms like Contenful, Wordpress, etc.
+This is a basic blog I developed by following Andrew Mead's [Gatsby JS Bootcamp](https://www.youtube.com/watch?v=8t0vNu2fCCM&t=8700s). My goal was to become familiar with Gatsby JS and come to a deeper understanding on some of its use cases. Since I had already become familiar with React, this seemed like useful knowledge to have in order to learn how to create websites more quickly. Learning how to pull from a CMS is also a skill that can be valuable to organizations that are already using platforms like Contentful, Wordpress, etc.
 
 View the blog [here](https://quiet-queijadas-4a35a1.netlify.app/).
 
